@@ -1,0 +1,27 @@
+body{
+    background-color: #97db19;
+    font-family: sans-serif;
+    color: #331d81;
+    text-align: center;
+   }
+   header{
+    padding: 10px;
+    text-align: center;
+    color: #da60cf;
+    font-size: 30px;
+   }
+   footer{
+    padding: 10px;
+    text-align: center;
+    color: #e6433e;
+    font-size: 30px;
+   }
+   img{
+    border: 10px solid transparent;
+    align-items: center;
+    padding: 14px;
+    width: 100px;
+    height: 100px;
+    size: 100px;
+   }
+   
